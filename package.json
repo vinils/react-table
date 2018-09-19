@@ -1,5 +1,5 @@
 {
-  "name": "react-table",
+  "name": "@vinils/react-table",
   "version": "0.0.1-rc.1",
   "description": "An atuo sugestion search box",
   "main": "build/index.js",
