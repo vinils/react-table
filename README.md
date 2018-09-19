@@ -1,8 +1,6 @@
 # React Table
 Table for React
 
-[![react-table](https://github.com//vinils/react-table/blob/releaseCandidate/public/sample.gif?raw=true)](https://github.com/vinils/react-table)
-
 ## Demo
 Demo and playground are available [here](https://vinils.github.io/react-table)
 
