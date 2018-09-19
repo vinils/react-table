@@ -1,8 +1,8 @@
 # React Table
-Table for React
+React table component
 
 ## Demo
-Demo and playground are available [here](https://vinils.github.io/react-table)
+Demo and playground are available [here](https://vinils.github.io/react-table/)
 
 ## Install
 

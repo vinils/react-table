@@ -8,9 +8,9 @@
     "url": "https://github.com/vinils/react-table.git"
   },
   "bugs": {
-    "url": "https://github.com/vinils/react-table/issues"
+    "url": "https://github.com/vinils/react-table/issues/"
   },
-  "homepage": "https://github.com/vinils/react-table",
+  "homepage": "https://github.com/vinils/react-table/",
   "peerDependencies": {
     "react": "^16.4.2"
   },
