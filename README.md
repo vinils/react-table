@@ -17,7 +17,7 @@ npm install @vinils/react-table
 
 ### Matrix
 
-```React
+```jsx
 const matrix = [
   ['texttext', 'texttext', 'texttext'],
   ['texttext', 'texttext', 'texttext'],
@@ -38,7 +38,7 @@ export default class MatrixExample extends Component {
 
 ### Tree
 
-```React
+```jsx
 const head = [
     {description: 'Name 1', name:'name1'}, 
     {description: 'Name 2', name:'name2'}, 
@@ -83,7 +83,7 @@ export default class TreeExample extends Component {
 
 ### Filter
 
-```React
+```jsx
 const treeRow = {
     name1: 'root',
     name2: 'aaaa',
