@@ -29,6 +29,16 @@ export default class TreeTable extends Component {
         }
     }
 
+    componentWillReceiveProps(nextProps) {
+        if(nextProps.children) {
+            if(nextProps.children != this.props.children) {
+                this.originalData = nextProps.children
+                this.initialBody = this.map(this.originalData)
+                this.setState({body: this.initialBody})
+            }
+        }
+    }
+
     getChilds(line) {
         if(line.showChilds) {
             return line.childs;
