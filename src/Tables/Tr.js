@@ -1,13 +1,7 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types'
+import React from 'react'
 
 const TrCons = (props) => {
-    return (
-        <tr
-          {...props}>
-            {props.children}
-        </tr>
-    );
+  return <tr {...props}>{props.children}</tr>
 }
 
-export default TrCons;
+export default TrCons

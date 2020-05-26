@@ -1,4 +1,4 @@
-import { TreeTable, Table } from '.'
+import Table, { TreeTable } from '.'
 
 describe('Table', () => {
   it('is truthy', () => {

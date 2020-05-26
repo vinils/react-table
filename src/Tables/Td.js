@@ -1,14 +1,11 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types'
+import React from 'react'
 
-const TdCons = (data, key=null, onClick = null) => {
+const TdCons = (data, key = null, onClick = null) => {
   return (
-    <td 
-      key={key}
-      onClick={() => onClick ? onClick(key) : null}>
-        {data}
+    <td key={key} onClick={() => (onClick ? onClick(key) : null)}>
+      {data}
     </td>
-  );
+  )
 }
 
-export default TdCons;
+export default TdCons
