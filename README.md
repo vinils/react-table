@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/v/react-table.svg)](https://www.npmjs.com/package/react-table) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+![Node.js CI](https://github.com/vinils/react-table/workflows/Node.js%20CI/badge.svg) [![NPM](https://img.shields.io/npm/v/react-table.svg)](https://www.npmjs.com/package/react-table) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 # React Table
 
