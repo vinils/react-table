@@ -1,14 +1,16 @@
-# React Table
-React table component
+[![NPM](https://img.shields.io/npm/v/react-table.svg)](https://www.npmjs.com/package/react-table) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Demo
+# React Table
+
+> React table component
+
 Demo and playground are available [here](https://vinils.github.io/react-table/)
 
 ## Install
 
 ```bash
 
-npm install @vinils/react-table
+npm install --save @vinils/react-table
 ```
 
 ## Usage Example
@@ -152,3 +154,6 @@ export default class FilterExample extends Component {
 }
 ```
 
+## License
+
+MIT © [vinils](https://github.com/vinils)

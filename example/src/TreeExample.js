@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {TreeTable} from 'react-table'
+import { TreeTable } from 'react-table'
 
 const head = [
     {description: 'Name 1', name:'name1'}, 
