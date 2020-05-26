@@ -1,6 +1,6 @@
 {
   "name": "@vinils/react-table",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0",
   "description": "A react table component",
   "author": "vinils",
   "license": "MIT",
@@ -16,7 +16,7 @@
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
-  "node": ">=10"
+    "node": ">=10"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
